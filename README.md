@@ -25,6 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bloega&show_icons=true&locale=en" alt="bloega" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bloega&" alt="bloega" /></p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bloega)](https://github.com/bloega/github-profile-trophy)
